@@ -1,4 +1,4 @@
-# Analysis of Bonus Accrual and Redemption in the Online Store [WIP]
+# Analysis of Bonus Accrual and Redemption in the Online Store
 
 ## Overview
 This project analyzes bonus accrual and redemption data using Pandas in Python. Its goal is to demonstrate how many bonuses were accrued and written off for the year 2023 by category and subcategory.
